@@ -78,7 +78,7 @@ public class Principal {
 	                
 	            case 3:
 	            	mostrar usuarios();
-	                break;
+	                break; 
 	                
 	            case 4:
 	            	excluir();
